@@ -48,6 +48,8 @@ An underergraduate student pursuing BTECH in computer science at VIT, I am passi
 <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+<img src="https://img.shields.io/badge/-Django-052D20?style=flat-square&logo=django"/>
+
 </p>
   
 
