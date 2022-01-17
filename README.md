@@ -60,7 +60,8 @@ An underergraduate student pursuing BTECH in computer science at VIT, I am passi
 <br>
 
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=karthik0309&show_icons=true&theme=gotham&line_height=27">
+  <img height="180em" src = "https://github-readme-stats-eight-theta.vercel.app/api?username=karthik0309&show_icons=true&theme=algolia&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=karthik0309&layout=compact&langs_count=7&theme=algolia">
 </p>
 
   
